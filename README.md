@@ -22,3 +22,12 @@
 매터리얼 인스턴스 : 원본을 토대로 복사본으로 사용하기 (파라미터화 시킨것 변경 등)
 
 ![image](https://user-images.githubusercontent.com/80494367/120410607-44160c00-c38e-11eb-82dc-3a2cd1caff56.png)
+
+
+
+ 06.09
+### Lerp   
+##### 알파값에 해당하는 알베도만 보이게끔
+![image](https://user-images.githubusercontent.com/80494367/121278702-2278cf80-c90e-11eb-86f3-f6043417e7e6.png)
+
+
